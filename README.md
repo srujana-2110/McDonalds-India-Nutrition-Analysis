@@ -24,9 +24,10 @@ Analyzed 141 McDonald's India menu items using Power BI and Power Query to under
 
 ## Key Insights
 
-- ...
-- ...
-- ...
+- The dashboard compares nutritional values across different McDonald's menu categories.
+- Menu categories show noticeable differences in average calories, protein, fat, and sugar.
+- The Top 10 analysis highlights menu items with the highest calorie content.
+- The interactive category slicer allows users to explore nutrition metrics for individual menu categories.
 
 ## Skills Demonstrated
 
